@@ -1,4 +1,5 @@
 # vscode_test1 에서
 
-1. README.md 파일을 작성합니다.
-2. 그렇군요.README.md 파일을 작성합니다.
+
+## README.md 파일을 작성합니다
+### README.md 파일을 작성합니다
